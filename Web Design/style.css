@@ -1,0 +1,501 @@
+
+
+*, ::before ::after{
+    box-sizing: border-box;
+}
+.nav{
+    padding: 100px 40px;
+}
+.header{
+   
+    padding: 10px 0;
+}
+body{
+    background-color: transparent;
+    margin: 0;
+    font-family: 'Nunito', sans-serif;}
+p{
+    font-size: 17px;
+    line-height: 26px;
+    font-weight: 400;
+    color: #7c8595;
+    margin-bottom: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+.top{
+    padding-top: 150px;
+}
+.top h1{
+    padding-bottom: 20px;
+    font-size: 40px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+}
+.top p{
+    padding-bottom: 20px;
+}
+.text-left{
+    text-align: left!important;
+    margin: 0 30px 0 20px;
+}
+h2{
+    font-family: 'Nunito', sans-serif;
+    color: #071e55;
+    font-size: 36px!important;
+    font-weight: 700!important;
+}
+
+.accord{
+    padding: 15px 30px;
+    box-shadow: rgb(33 33 33 / 6%) 0 4px 24px 5px;
+}
+.mt{
+    padding-top: 80px;
+}
+ul {
+    
+    list-style: none;
+    list-style-image: none;
+    margin: 0;
+    padding: 0;
+    color: #7c8595;
+    font-size: 17px;
+    line-height: 26px;
+}
+.list a{
+    display: inline-block;
+}
+
+li{
+    display: inline-block;
+    margin: 0 3px;
+}
+.green i{
+    border: 2px solid green;
+    border-radius: 50%;
+    padding: 5px 5px ;
+    color: green;
+    font-size: 1rem;
+
+}
+.twitter{
+    border-radius: 20px;
+    background-color: blue;
+    padding: 5px 10px 10px 10px;
+    
+}
+.twitter img {
+    vertical-align: middle!important;
+}
+.instagram{
+    border-radius: 20px;
+    background-color: red;
+    padding: 5px 10px 10px 10px;
+    
+}
+.instagram img {
+    vertical-align: middle!important;
+}
+.facebook{
+    border-radius: 20px;
+    background-color: blue;
+    padding: 5px 10px 10px 10px;
+    
+}
+.facebook img {
+    vertical-align: middle!important;
+}
+.message{
+    border-radius: 20px;
+    background-color: rgb(255, 191, 202);
+    padding: 5px 10px 10px 10px;
+    
+}
+.message img {
+    vertical-align: middle!important;
+}
+.team{
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.icon{
+    padding: 10px 0 10px 0;
+}
+.box{
+    font-size: 16px;
+    font-weight: 400
+}
+.box span{
+    font-size: 26px;
+    line-height: 40px;
+    font-weight: 700;
+    font-style: normal;
+    color: #071e55;
+    font-family: 'Nunito', sans-serif;
+}
+.check{
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+    padding: 0 2px;
+}
+.featurebox{
+    float: left;
+    width: 75%;
+    margin-left: 20px;
+}
+.features{
+    margin: 40px 0 0 0;
+}
+.features i{
+    float: left;
+    font-size: 40px;
+    line-height: 50px;
+ 
+    text-align: center;
+}
+.link{
+    margin: 30px 0 10px 30px;
+    justify-content: center;
+  
+}
+.link a{
+    text-align: center;
+    border: 2px solid blue;
+    border-radius: 10px;
+    padding: 15px 30px;
+    font-weight: 600;
+    text-decoration: none;
+
+}
+.linka{
+    margin: 30px 0 10px 30px;
+    justify-content: center;
+   
+  
+}
+.linka a{
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid blue;
+    background-color: blue;
+    padding: 15px 30px;
+    font-weight: 600;
+    text-decoration: none;
+
+}
+.free{
+    box-shadow: rgb(33 33 33 / 6%) 0 4px 24px 5px;
+    border-radius: 10px;
+    margin: 20px  0;
+    padding: 35px 10px;
+    background-color: #fff;
+    
+}
+.free:hover{
+    border-bottom: 3px solid blue;
+}
+.free li{
+    display: block;
+    line-height: 40px;
+    text-align: left;
+}
+.free h5{
+   line-height: 40px;
+    font-weight: bold;
+    color: #071e55;
+    font-family: 'Nunito', sans-serif;
+}
+.free span{
+    font-size: 80px;
+    
+    font-weight: 600!important;
+    
+    color: #071e55;
+    font-family: 'nunito', sans-serif;
+}
+.center{
+    justify-content: center;
+    
+}
+img, svg {
+    vertical-align: middle;}
+
+/*#main-service > img{
+    width: 100%;
+    height: auto;
+}*/
+.width-100 {
+    width: 100%}
+.sectionb{
+    padding: 90px 0 0 0;
+}
+.sectionp{
+    padding: 30px 0 70px 0;
+}
+.sectionq{
+    padding: 90px 0 90px 0;
+}
+.sectiona{
+    padding: 150px 0 50px 0;
+    
+}
+.smart{
+    padding: 0 20px 0 0;
+    font-family: 'Nunito', sans-serif;
+    font-size: 25px!important ;
+    font-weight: 800!important;
+}
+.smart img{
+    vertical-align: middle!important;
+}
+.smarta{
+    
+    font-family: 'Nunito', sans-serif;
+    font-size: 17px!important ;
+    font-weight: 700!important;
+}
+.smartb{
+    
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px!important ;
+    font-weight: 700!important;
+}
+
+#weight{
+    font-weight: 30px;
+    font-size:small ;
+    color: darkblue;
+
+}
+.text-center {
+    text-align: center!important;
+}
+.section-white {
+    background: #fff;
+    padding: 90px 0 90px 0;
+}
+
+.text-end {
+        text-align: right!important;
+}
+.box {
+    margin: 0 auto;
+    max-width: 728
+}
+#sub{
+    background-color: red;
+    height: 60px;
+    width: ;
+    border: transparent;
+    border-radius: 0 5px 5px 0;
+    color: white;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-family: 'Nunito', sans-serif;
+}
+.span{
+    margin:15px 0 0 0;
+}
+.span span{
+    margin-right: 15px;
+}
+.green{
+    color: green;
+}
+
+
+#mail{
+    background: url(input-envelope.png) no-repeat 20px;
+    background-color: white;
+    height: 60px;
+    width: 400px ;
+    border: transparent;
+    border-radius: 5px;
+    padding: 0 50px ;
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+}
+.form{
+    width: 100%;
+    
+}
+
+
+
+#nav{
+  
+    margin-left: 8%;
+    margin-right: 5%;
+    font-weight: bold;
+    font-size: 15px;
+   
+  
+}
+#l{
+    background-color: blue;
+    padding: 5px;
+    margin: 5px;
+   
+    right: 5%;
+}
+.float{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 8%;
+    margin-right: 5%; }
+
+
+#size{
+   
+    margin-left: 8%;
+    margin-right: 5%;
+
+
+
+}
+#main-services {
+    margin-top: 40px;
+    padding: 25px 30px;
+    background-color: #fff;
+    transition: all 1s ;
+   }
+#main-services:hover{  
+    transform: translate(0px, -15px);
+}
+#main-service {
+    margin: 20px 10px 10px 0;
+    padding: 29px 10px;
+    background-color: #fff;
+    box-shadow: rgb(33 33 33 / 6%) 0 4px 24px 5px;
+    border-radius: 8px;
+    text-align: center;
+   
+    transition: all 1s;}
+    
+
+   
+
+#main-service:hover{  
+    transform: translate(0px, -15px);}
+#main {
+    margin: 20px 0 40px 0;
+    
+    background-color: #fff;
+    box-shadow: rgb(33 33 33 / 6%) 0 4px 24px 5px;
+    border-radius: 8px;
+    text-align: center;
+   
+    transition: all 1s;}
+#main img{
+    border-radius: 8px;
+}   
+#main h3{
+    margin: 15px 0 15px 0;
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+   
+}
+#main a{
+    text-decoration: none;
+}
+.italic{
+    color: rgba(0, 0, 0, 0.516)!important;
+    font-style: italic;
+}
+#main p{
+    padding: 15px 0 30px 0;
+}
+
+   
+
+#main:hover{  
+    transform: translate(0px, -15px);}
+       
+
+.justify-content-center {
+        justify-content: center!important;
+    }
+
+
+.position{
+    position: relative;
+    left: 40%;
+    top: 10px;
+}
+
+
+.side{
+    max-width: 100%;
+
+}
+.submit{
+    background-color: rgb(0, 255, 255);
+    color: white;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border: 1px solid rgb(0, 255, 255);
+    border-radius: 10px ;
+}
+.form-control{
+    background-color: rgb(180, 172, 172)!important;
+    padding: 20px 20px!important;
+    color: white;
+}
+.f{
+    background-color: rgb(180, 172, 172)!important;
+    
+    color: white;
+}
+.m{
+    margin: 20px 0;
+}
+.margin{
+  line-height: 10px; 
+}
+.margin i{
+    color:rgb(0, 255, 255);
+    margin: 0 5px 0 0;
+    
+}
+.style{
+    width:100%;
+    height: 300px;
+    background-color: rgb(165, 154, 154);
+}
+.sectiond{
+    padding: 30px 0 ;
+}
+.bold{
+    font-weight: bold;
+}
+
+
+.t{
+    
+    font-size: 30px;
+}
+.in{
+    
+    font-size: 30px;
+}
+.w{
+    color: green;
+    font-size: 30px;
+}
+.g{
+    
+    font-size: 30px;
+}
+.git{
+    color: pink;
+    font-size: 30px;
+}
+.follow{
+    vertical-align: bottom;
+    font-size: large;
+}
+
+
